@@ -1,6 +1,6 @@
 apiVersion: '0.1'
 kind: ksonnet.io/registry
 libraries:
-  tf-job_e2e:
+  tf-job-e2e:
     version: master
     path: tf-job-e2e
